@@ -1,0 +1,17 @@
+
+# Executive Summary
+
+Afficionado Coffee Roasters faces highly dynamic customer demand patterns across different locations and hours. This project implements a data-driven forecasting framework to predict future revenue trends, identify peak demand periods, and support intelligent operational planning.
+
+The Streamlit dashboard provides:
+- Store-wise forecasting
+- Demand visualization
+- KPI monitoring
+- Peak-hour prediction
+- Forecast accuracy metrics
+
+Business Benefits:
+- Reduced inventory waste
+- Better staffing schedules
+- Improved customer satisfaction
+- Data-driven planning decisions
